@@ -83,7 +83,7 @@ if __name__ == '__main__':
                 least_mdist = mdist
                 nearest_isc = isc
 
-        print("The closest intersection to the central port is at location ({}, {}), a distance of {}".format(nearest_isc[0], nearest_isc[1], least_mdist))
+        print("[Part 1] The closest intersection to the central port is at location ({}, {}), a distance of {}".format(nearest_isc[0], nearest_isc[1], least_mdist))
 
 
         ## Part 2 ##
@@ -97,4 +97,4 @@ if __name__ == '__main__':
                 min_wire2 = wires[1].countSteps(isc)
                 min_isc = isc
 
-        print("\nThe minimum number of steps to reach an intersection is {}.\nThis will reach the intersection at ({}, {}) in {} steps along the first wire and {} steps along the second wire.".format(min_steps, min_isc[0], min_isc[1], min_wire1, min_wire2))
+        print("\n[Part 2] The minimum number of steps to reach an intersection is {}.\nThis will reach the intersection at ({}, {}) in {} steps along the first wire and {} steps along the second wire.".format(min_steps, min_isc[0], min_isc[1], min_wire1, min_wire2))
