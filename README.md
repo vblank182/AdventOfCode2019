@@ -51,3 +51,11 @@ This will reach the intersection at (993, 355) in 1348 steps along the first wir
 [Part 1] Orbit count checksum: 158090
 [Part 2] Number of orbital transfers required: 241
 ```
+
+### Day 7
+```
+> python day07.py
+
+[Part 1] Largest thruster signal 117312 obtained using phases (0, 4, 1, 3, 2).
+[Part 2] Largest thruster signal 1336480 obtained using phases (9, 6, 5, 7, 8) in feedback loop mode.
+```
