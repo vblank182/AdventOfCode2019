@@ -2,7 +2,11 @@
 ## https://adventofcode.com/2019
 ## Jesse Williams | github.com/vblank182
 
-# **Compatible with Day 5, Part 1
+# **Compatible with Day 5, Part 1**
+
+# Changelog:
+# - Added IN and OUT instructions
+# - Added support for parameter modes
 
 #~# Opcodes #~#
 ADD, MUL, IN, OUT = 1, 2, 3, 4

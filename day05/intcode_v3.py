@@ -2,7 +2,10 @@
 ## https://adventofcode.com/2019
 ## Jesse Williams | github.com/vblank182
 
-# **Compatible with Day 5, Part 2
+# **Compatible with Day 5, Part 2**
+
+# Changelog:
+# - Added JIT, JIF, LT, and EQ instructions
 
 #~# Opcodes #~#
 ADD, MUL, IN, OUT, JIT, JIF, LT, EQ = 1, 2, 3, 4, 5, 6, 7, 8
