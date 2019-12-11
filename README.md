@@ -59,3 +59,12 @@ This will reach the intersection at (993, 355) in 1348 steps along the first wir
 [Part 1] Largest thruster signal 117312 obtained using phases (0, 4, 1, 3, 2).
 [Part 2] Largest thruster signal 1336480 obtained using phases (9, 6, 5, 7, 8) in feedback loop mode.
 ```
+
+### Day 8
+```
+> python day08.py
+
+[Part 1] Layer #14 has the fewest '0' digits at 5. This layer's checksum (1's multiplied by 2's) is 1474.
+```
+#### Part 2:
+![Part 2](/day08/day08_output_16x.png)
