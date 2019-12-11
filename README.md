@@ -68,3 +68,11 @@ This will reach the intersection at (993, 355) in 1348 steps along the first wir
 ```
 #### Part 2:
 ![Part 2](/day08/day08_output_16x.png)
+
+### Day 9
+```
+> python day09.py
+
+[Part 1] Test successful! BOOST keycode: 3533056970
+[Part 2] BOOST program finished. Distress signal coordinates: 72852
+```
