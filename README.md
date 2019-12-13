@@ -76,3 +76,11 @@ This will reach the intersection at (993, 355) in 1348 steps along the first wir
 [Part 1] Test successful! BOOST keycode: 3533056970
 [Part 2] BOOST program finished. Distress signal coordinates: 72852
 ```
+
+### Day 10
+```
+> python day10.py
+
+[Part 1] Location (22, 25) is optimal for monitoring station with 286 asteroids in direct line of sight.
+[Part 2] The 200th asteroid to be vaporized is at (5, 4).
+```
