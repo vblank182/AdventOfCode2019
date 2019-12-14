@@ -84,3 +84,12 @@ This will reach the intersection at (993, 355) in 1348 steps along the first wir
 [Part 1] Location (22, 25) is optimal for monitoring station with 286 asteroids in direct line of sight.
 [Part 2] The 200th asteroid to be vaporized is at (5, 4).
 ```
+
+### Day 11
+```
+> python day11.py
+
+[Part 1] Simulation complete. Hull painting robot will paint 1894 panels at least once.
+```
+#### Part 2:
+![Part 2](/day11/day11_output_16x.png)
