@@ -93,3 +93,19 @@ This will reach the intersection at (993, 355) in 1348 steps along the first wir
 ```
 #### Part 2:
 ![Part 2](/day11/day11_output_16x.png)
+
+### Day 12
+```
+> python day12.py
+
+[Part 1] After 1000 timesteps, the total energy in the system is 5350.
+[Part 2] After 467034091553512 timesteps, the universe will reach a state identical to time t=0.
+```
+
+### Day 13
+```
+> python day13.py
+
+[Part 1] Location (22, 25) is optimal for monitoring station with 286 asteroids in direct line of sight.
+[Part 2] 
+```
